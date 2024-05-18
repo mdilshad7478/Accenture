@@ -1,4 +1,4 @@
-# Accenture - Virtual Internship
+# Accenture - Data Analytics and Visualization Project | Power BI | Excel | Powerpoint |
 This Data Analytics and Visualization project involves the thorough analysis of three datasets to understand user behavior within the app. Through data cleaning, modeling, and visualization, the team aims to uncover insights such as the peak usage month and the highest-scoring content category. The project's findings will be presented to the client in a clear and visually.
 
 ## Power BI Dashboard
