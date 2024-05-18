@@ -41,8 +41,9 @@ Some of the interesting insights that were shared include:
 + How many unique categories are there?
 + How many reactions are there to the most popular category?
 + What was the month with the most posts?
+
+![Screenshot 2024-05-18 201044](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/3b301015-d98b-464e-b1ea-cee35eeddb6d)
 ![Screenshot 2024-05-18 201109](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/ad77d9c9-318c-482f-97df-58a568fc76bb)
 ![Screenshot 2024-05-18 201126](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/ac077fa3-9ffc-4bf9-8dea-f535e286de59)
 ![Screenshot 2024-05-18 201147](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/ebca040c-c317-488e-be03-9aa0f34c1e4c)
-![Screenshot 2024-05-18 201044](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/3b301015-d98b-464e-b1ea-cee35eeddb6d)
 
