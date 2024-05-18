@@ -1,5 +1,5 @@
-# Accenture-Data-Analytics-and-Visualization-Project
-This virtual project involves the thorough analysis of three datasets to understand user behavior within the app. Through data cleaning, modeling, and visualization, the team aims to uncover insights such as the peak usage month and the highest-scoring content category. The project's findings will be presented to the client in a clear and visually.
+# Accenture - Virtual Internship
+This Data Analytics and Visualization project involves the thorough analysis of three datasets to understand user behavior within the app. Through data cleaning, modeling, and visualization, the team aims to uncover insights such as the peak usage month and the highest-scoring content category. The project's findings will be presented to the client in a clear and visually.
 ## Introduction
 Social Buzz is a rapidly expanding technology unicorn in need of swift adaptation to its large-scale global operations.
 Accenture is conducting a 3-month POC centered on the following objectives:
