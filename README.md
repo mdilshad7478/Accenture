@@ -1,5 +1,10 @@
 # Accenture - Virtual Internship
 This Data Analytics and Visualization project involves the thorough analysis of three datasets to understand user behavior within the app. Through data cleaning, modeling, and visualization, the team aims to uncover insights such as the peak usage month and the highest-scoring content category. The project's findings will be presented to the client in a clear and visually.
+
+## Power BI Dashboard
+
+![Accenture Dashboard](https://github.com/mdilshad7478/Accenture-Data-Analytics-and-Visualization-Project/assets/157358118/7edcfc76-1da7-4e37-b7f3-8beae7d12347)
+
 ## Introduction
 Social Buzz is a rapidly expanding technology unicorn in need of swift adaptation to its large-scale global operations.
 Accenture is conducting a 3-month POC centered on the following objectives:
@@ -41,6 +46,8 @@ Some of the interesting insights that were shared include:
 + How many unique categories are there?
 + How many reactions are there to the most popular category?
 + What was the month with the most posts?
+
+[Click for PowerPoint Presentation]([Power Point Presentation.pptx](https://github.com/mdilshad7478/Accenture-Data-Analytics-and-Visualization-Project/files/15365949/Power.Point.Presentation.pptx))
 
 ![Screenshot 2024-05-18 201044](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/3b301015-d98b-464e-b1ea-cee35eeddb6d)
 ![Screenshot 2024-05-18 201109](https://github.com/mdilshad7478/PWC---Virtual-Internship-/assets/157358118/ad77d9c9-318c-482f-97df-58a568fc76bb)
